@@ -25,5 +25,5 @@
 
          - name: Deploy Docker Container
            run: |
-             docker-compose up -d
+             docker compose up -d
 
